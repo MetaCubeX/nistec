@@ -144,7 +144,7 @@ import (
 	"errors"
 	"sync"
 
-	"filippo.io/nistec/internal/fiat"
+	"github.com/metacubex/nistec/internal/fiat"
 )
 
 // {{.p}}ElementLength is the length of an element of the base or scalar field,

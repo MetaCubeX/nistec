@@ -8,7 +8,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"filippo.io/nistec"
+	"github.com/metacubex/nistec"
 )
 
 func BenchmarkScalarMult(b *testing.B) {

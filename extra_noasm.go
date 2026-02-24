@@ -6,7 +6,7 @@
 
 package nistec
 
-import "filippo.io/nistec/internal/fiat"
+import "github.com/metacubex/nistec/internal/fiat"
 
 // Negate sets p = -q and returns p.
 func (p *P256Point) Negate(q *P256Point) *P256Point {

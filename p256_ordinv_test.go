@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"testing"
 
-	"filippo.io/nistec"
+	"github.com/metacubex/nistec"
 )
 
 func TestP256OrdInverse(t *testing.T) {

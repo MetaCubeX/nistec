@@ -13,8 +13,8 @@ import (
 	"sync"
 	"unsafe"
 
-	"filippo.io/nistec/internal/byteorder"
-	"filippo.io/nistec/internal/fiat"
+	"github.com/metacubex/nistec/internal/byteorder"
+	"github.com/metacubex/nistec/internal/fiat"
 	"golang.org/x/sys/cpu"
 )
 

@@ -1,7 +1,7 @@
-# filippo.io/nistec
+# github.com/metacubex/nistec
 
 ```
-import "filippo.io/nistec"
+import "github.com/metacubex/nistec"
 ```
 
 This package implements the NIST P elliptic curves, according to FIPS 186-4
@@ -23,7 +23,7 @@ prime order group implementation.
 Use the `purego` build tag to exclude the assembly and rely entirely on formally
 verified fiat-crypto arithmetic and complete addition formulas.
 
-Read the docs at [pkg.go.dev/filippo.io/nistec](https://pkg.go.dev/filippo.io/nistec).
+Read the docs at [pkg.go.dev/github.com/metacubex/nistec](https://pkg.go.dev/github.com/metacubex/nistec).
 
 This repository generally does not accept contributions.
 Any changes should be submitted upstream to the Go project.

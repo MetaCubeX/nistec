@@ -9,7 +9,7 @@ package fiat
 import (
 	"errors"
 
-	"filippo.io/nistec/internal/subtle"
+	"github.com/metacubex/nistec/internal/subtle"
 )
 
 // P256Element is an integer modulo 2^256 - 2^224 + 2^192 + 2^96 - 1.

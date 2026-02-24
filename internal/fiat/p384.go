@@ -9,7 +9,7 @@ package fiat
 import (
 	"errors"
 
-	"filippo.io/nistec/internal/subtle"
+	"github.com/metacubex/nistec/internal/subtle"
 )
 
 // P384Element is an integer modulo 2^384 - 2^128 - 2^96 + 2^32 - 1.

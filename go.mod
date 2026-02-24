@@ -1,4 +1,4 @@
-module filippo.io/nistec
+module github.com/metacubex/nistec
 
 go 1.20
 

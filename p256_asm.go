@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"filippo.io/nistec/internal/byteorder"
+	"github.com/metacubex/nistec/internal/byteorder"
 )
 
 // p256Element is a P-256 base field element in [0, P-1] in the Montgomery

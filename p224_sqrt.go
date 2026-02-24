@@ -7,7 +7,7 @@ package nistec
 import (
 	"sync"
 
-	"filippo.io/nistec/internal/fiat"
+	"github.com/metacubex/nistec/internal/fiat"
 )
 
 var p224GG *[96]fiat.P224Element

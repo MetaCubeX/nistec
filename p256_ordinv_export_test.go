@@ -6,7 +6,7 @@ package nistec
 
 // This file exports the P256OrdInverse function so it's accessible during tests
 // from the unmodified p256_ordinv_test.go from the stdlib, but not as part
-// of the public API of filippo.io/nistec.
+// of the public API of github.com/metacubex/nistec.
 
 func P256OrdInverse(k []byte) ([]byte, error) {
 	return p256OrdInverse(k)

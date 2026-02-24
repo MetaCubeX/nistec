@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"testing"
 
-	"filippo.io/nistec/internal/fiat"
+	"github.com/metacubex/nistec/internal/fiat"
 )
 
 func TestP256PrecomputedTable(t *testing.T) {

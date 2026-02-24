@@ -9,7 +9,7 @@ package fiat
 import (
 	"errors"
 
-	"filippo.io/nistec/internal/subtle"
+	"github.com/metacubex/nistec/internal/subtle"
 )
 
 // P521Element is an integer modulo 2^521 - 1.

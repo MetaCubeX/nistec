@@ -10,7 +10,7 @@ import (
 	"math/big"
 	"testing"
 
-	"filippo.io/nistec"
+	"github.com/metacubex/nistec"
 )
 
 type nistPointExtra[T any] interface {

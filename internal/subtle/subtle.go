@@ -8,7 +8,7 @@ import (
 	"crypto/subtle"
 	"math/bits"
 
-	"filippo.io/nistec/internal/byteorder"
+	"github.com/metacubex/nistec/internal/byteorder"
 )
 
 func ConstantTimeCompare(x, y []byte) int {
